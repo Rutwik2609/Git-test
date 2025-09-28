@@ -12,3 +12,4 @@ Git - There are 3 stages
 
 -- git remote add origin "github-repo-link": To connect to github repo.
 -- 
+
