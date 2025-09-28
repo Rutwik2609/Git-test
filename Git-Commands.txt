@@ -16,3 +16,4 @@ Git - There are 3 stages
 -- 
 -- git remote -v :To chechk github repo
 
+The upstream branch name on local and github repo needs to be matched.
