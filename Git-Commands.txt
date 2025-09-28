@@ -11,9 +11,20 @@ Git - There are 3 stages
 -- git add .  : For all files.
 -- git branch : To check branch name.
 -- git commit —m “custom message” :To commit changes.
-
+-- git brach branch_name : To create branch
 -- git remote add origin "github-repo-link": To connect to github repo.
+-- git checkout branch_name : To change branch
 -- 
 -- git remote -v :To chechk github repo
 
+
 The upstream branch name on local and github repo needs to be matched.
+
+Suppose i want to Collborate with other user repo so follow this steps:
+git clone repo -----
+git branch create_branch
+git branch checkout created_branch
+Make changes
+stage and commit
+git push origin Created_branch 
+
