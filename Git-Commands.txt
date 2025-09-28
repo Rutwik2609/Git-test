@@ -4,12 +4,15 @@ Git - There are 3 stages
 2.Staging area      : code which is finalized and tracked.
 3.Commit            : Save the code
 
+
 -- git status : To check status and track files.
 -- git init   : To intialize working repo.
 -- git add "fileName"  : To add specific file to staging area.
 -- git add .  : For all files.
+-- git branch : To check branch name.
 -- git commit —m “custom message” :To commit changes.
 
 -- git remote add origin "github-repo-link": To connect to github repo.
 -- 
+-- git remote -v :To chechk github repo
 
