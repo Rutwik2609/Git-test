@@ -17,6 +17,7 @@ Git - There are 3 stages
 -- 
 -- git remote -v :To chechk github repo
 
+
 The upstream branch name on local and github repo needs to be matched.
 
 Suppose i want to Collborate with other user repo so follow this steps:
@@ -26,3 +27,4 @@ git branch checkout created_branch
 Make changes
 stage and commit
 git push origin Created_branch 
+
