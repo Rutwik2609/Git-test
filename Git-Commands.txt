@@ -54,3 +54,5 @@ Suppose i have incomplete file and emergency changes to be done in index.html so
  git stash -u :To stop tracking of unstaged file 
  git stash pop:To work again on incomplete file
  (use "git restore --staged <file>..." to unstage)
+
+ git revert commit_id : To revert or go back to previous version
