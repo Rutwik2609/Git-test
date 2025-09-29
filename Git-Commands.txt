@@ -35,3 +35,11 @@ on main user main branch add this commands to fetch new updates-
 2. git pull origin main/master 
 
 After making changes in your branch the repo owner needs to pull & merge
+
+
+git starts: 
+
+git branch -d branchname : Deletes branch if merge is done sucessfully
+git branch -D branchname : Force delete despite if merged or not
+git log :To check actions
+
