@@ -23,7 +23,7 @@ The upstream branch name on local and github repo needs to be matched.
 Suppose i want to Collborate with other user repo so follow this steps:
 git clone repo -----
 git branch create_branch
-git branch checkout created_branch
+git checkout created_branch
 Make changes
 stage and commit
 git push origin Created_branch 
@@ -37,5 +37,5 @@ on main user main branch add this commands to fetch new updates-
 git starts: 
 
 git branch -d branchname : Deletes branch if merge is done sucessfully
-git branch -D branchname : Force delete despite if merged or not
+git branch -D branchname : Force delete despite if merged or not(You nedd to be on main branch to delete)
 git log :To check actions
