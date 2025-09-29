@@ -43,3 +43,9 @@ git branch -d branchname : Deletes branch if merge is done sucessfully
 git branch -D branchname : Force delete despite if merged or not
 git log :To check actions
 
+d1 starts : 
+
+To make logs easy to read:
+1. git log --pretty=oneline
+2. git log --graph
+To quit type q
