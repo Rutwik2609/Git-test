@@ -51,6 +51,7 @@ To make logs easy to read:
 To quit type q
 
 Suppose i have incomplete file and emergency changes to be done in index.html so i can use git stash
+ git add and commit complete files
  git stash -u :To stop tracking of unstaged file 
  git stash pop:To work again on incomplete file
  (use "git restore --staged <file>..." to unstage)
